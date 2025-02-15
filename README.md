@@ -1,30 +1,27 @@
-## 你好 我是Tommy 👋
-曾經是一名3D動畫師
-由於生涯規劃,目前正在努力轉職成為一名專業的後端工程師
-今年一月畢業於資展國際AioT 智慧機器人養成班
-我會基礎的前後端,數據視覺化,以及基礎的AI運用
-資展畢業專題我負責的部分是數據可視化 
-結合了後端node.js ,以及兩項資料庫 mongoDB,InfluxDB的技術
-最終用Grafana來呈現數據
+## 你好，我是 Tommy 👋
 
-目前正在陸續產出使用各種程式語言的專案
+曾經是一名 **3D動畫師**，由於生涯規劃，目前正在努力轉職成為一名專業的 **後端工程師**。
 
- 如果你對我有興趣 歡迎聯繫我
- 謝謝您!
-Email : s920201lin87@gmail.com
-Phone : 0970670305
+### 🌟 背景簡介
+- **資展國際 AioT 智慧機器人養成班畢業生**（2025年1月畢業）
+- 擁有基礎的 **前後端開發技能**
+- 熟悉 **數據視覺化** 與 **基礎 AI 運用**
 
-<!--
-**s920201lin87/s920201lin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 專題負責內容
+- 負責專題中的 **數據可視化**
+- 技術堆疊：
+- - **語言**: JS,Java,Python
+- - **前端**: HTML,CSS,JS
+  - **後端框架**: Node.js,Flask,FastAPI,  
+  - **資料庫**: MongoDB、InfluxDB、MySQL 
+  - **視覺化工具**: Grafana
 
-Here are some ideas to get you started:
+### 📈 正在進行
+目前正在陸續產出使用 **各種程式語言** 的專案。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**📬 聯絡方式**
+
+- **Email**: s920201lin87@gmail.com  
+- **Phone**: 0970670305
