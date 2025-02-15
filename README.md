@@ -12,7 +12,7 @@
 - 技術堆疊：
 - - **語言**: JS,Java,Python
 - - **前端**: HTML,CSS,JS
-  - **後端框架**: Node.js,Flask,FastAPI,  
+  - **後端框架**: Node.js,Flask,FastAPI  
   - **資料庫**: MongoDB、InfluxDB、MySQL 
   - **視覺化工具**: Grafana
 
