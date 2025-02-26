@@ -9,12 +9,15 @@
 
 ### 💼 專題負責內容
 - 負責專題中的 **數據可視化** **數據導入** **數據清洗**
-- 技術堆疊：
+- 
+### 🔧 技術堆疊：
 - - **語言**: Javascript,Java,Python
 - - **前端技術**: HTML,CSS,JS
   - **後端技術**: Node.js(express),Flask,FastAPI  
   - **資料庫**: MongoDB、InfluxDB、MySQL 
   - **視覺化工具**: Grafana
+  - **作業系統**:Linux、Windows、Mac OS
+  - 
 
 ### 📈 正在進行
 目前正在陸續產出使用 **各種功能** 的專案。
