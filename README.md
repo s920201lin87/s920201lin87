@@ -17,7 +17,7 @@
   - **資料庫**: MongoDB、InfluxDB、MySQL 
   - **視覺化工具**: Grafana
   - **作業系統**:Linux、Windows、Mac OS
-  - 
+    
 
 ### 📈 正在進行
 目前正在陸續產出使用 **各種功能** 的專案。
